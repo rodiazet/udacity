@@ -1,1 +1,1 @@
-print "dirtest.py"
+print "dirtest.py - some change"
