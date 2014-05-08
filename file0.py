@@ -7,3 +7,5 @@ print "additional normal change"
 print "master change"
 
 print "m0 change"
+
+print "2 -> m change"
